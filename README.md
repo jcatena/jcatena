@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @jcatena, jcatena@diwaves.com
-- 👀 I’m a software development expert.
-- 🌱 I use this github account to share some stuff not related with my professional works.
+- Hi, I’m @jcatena, jcatena@diwaves.com
+- I’m a software development expert.
+- I use this personal github account to share some stuff not related with my professional works.
